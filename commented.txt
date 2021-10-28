@@ -1,0 +1,7 @@
+TripsController -> incdex()
+TripsController -> show()
+TripsController -> search()
+AuthController -> getUser()
+OfferController
+OfferController -> store()
+OfferController -> respondToOffer()
